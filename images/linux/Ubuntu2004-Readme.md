@@ -101,7 +101,7 @@ to accomplish this.
 - Newman 5.3.2
 - nvm 0.39.3
 - OpenSSL 1.1.1f-1ubuntu2.17
-- Packer Packer 1.8.6
+- Packer 1.8.6
 - Parcel 2.8.3
 - PhantomJS 2.1.1 2.1.1
 - Podman 3.4.2
